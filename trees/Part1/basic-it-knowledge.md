@@ -5,23 +5,23 @@
 
 ## 📑 Table Of Index
 - [How Does The Internet Work?](#How-Does-The-Internet-Work)
-- [B. What Is HTTP?](#B.-What-Is-HTTP)
-- [C. Browsers And How They Work?](#C.-Browsers-And-How-They-Work?)
-- [D. DNS And How It Works? & What Is Domain Name?](#D.-DNS-And-How-It-Works?-&-What-Is-Domain-Name?)
-- [E. What-Is-Hosting?](#E.-What-Is-Hosting?)
+- [B. What Is HTTP?](#What-Is-HTTP)
+- [C. Browsers And How They Work?](#Browsers-And-How-They-Work?)
+- [D. DNS And How It Works? & What Is Domain Name?](#DNS-And-How-It-Works?-&-What-Is-Domain-Name?)
+- [E. What-Is-Hosting?](#What-Is-Hosting?)
 <br/>
 
 ## How Does The Internet Work
 <br/>
 
-## B. What Is HTTP
+## What Is HTTP
 <br/>
 
-## C. Browsers And How They Work?
+## Browsers And How They Work?
 <br/>
 
-## D. DNS And How It Works? & What Is Domain Name?
+## DNS And How It Works? & What Is Domain Name?
 <br/>
 
-## E. What-Is-Hosting?
+## What-Is-Hosting?
 <br/>
