@@ -21,7 +21,7 @@
 
 
 ## 기초 IT 지식과 기초 프론트엔드 지식
-#### 인터넷 기초 (Internet)
+#### 인터넷 기초 (Internet) <a href="https://github.com/baobabnamu/0001_Interview_Of_Backend">Link</a> 🔗
 #### 마크업 언어/스타일 언어  (HTML/CSS)
 #### 자바스크립트 (Javascript)
 <br/>
