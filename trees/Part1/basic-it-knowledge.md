@@ -23,5 +23,5 @@
 ## DNS And How It Works
 <br/>
 
-## What-Is-Hosting
+## What Is Hosting
 <br/>
