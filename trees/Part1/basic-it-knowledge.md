@@ -14,7 +14,7 @@
 ## How Does The Internet Work
 <br/>
 
-## B. What Is HTTP?
+## B. What Is HTTP
 <br/>
 
 ## C. Browsers And How They Work?
