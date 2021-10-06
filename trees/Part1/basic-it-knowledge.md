@@ -4,7 +4,7 @@
 <br/>
 
 ## 📑 Table Of Index
-- [A. How Does The Internet Work?](#How-Does-The-Internet-Work?)
+- [How Does The Internet Work?](#How-Does-The-Internet-Work?)
 - [B. What Is HTTP?](#B.-What-Is-HTTP?)
 - [C. Browsers And How They Work?](#C.-Browsers-And-How-They-Work?)
 - [D. DNS And How It Works? & What Is Domain Name?](#D.-DNS-And-How-It-Works?-&-What-Is-Domain-Name?)
