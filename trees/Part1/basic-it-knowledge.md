@@ -11,10 +11,6 @@
 - [What-Is-Hosting?](#What-Is-Hosting)
 <br/>
 
-## 💑 Special Thanks (Reference)
-- https://developer.mozilla.org/ko/docs/Learn/Common_questions/How_does_the_Internet_work
-<br/>
-
 
 ## How Does The Internet Work
 ### 1. 인터넷의 작동 원리 <a href="https://baobab-tree.notion.site/223d4390e86241359b57be6b67a84f5d">Link</a> 🔗
@@ -31,4 +27,10 @@
 <br/>
 
 ## What Is Hosting
+<br/>
+
+## 💑 Special Thanks (Reference)
+- https://developer.mozilla.org/ko/docs/Learn/Common_questions/How_does_the_Internet_work
+- https://developer.mozilla.org/ko/docs/Learn/Common_questions/What_is_a_URL
+- https://get-skills.tistory.com/entry/Domain-Name-Service-1
 <br/>
