@@ -8,7 +8,7 @@
 - [What Is HTTP?](#What-Is-HTTP)
 - [Browsers And How They Work?](#Browsers-And-How-They-Work)
 - [DNS And How It Works? & What Is Domain Name?](#DNS-And-How-It-Works)
-- [What-Is-Hosting?](#What-Is-Hosting)
+- [What Is Hosting?](#What-Is-Hosting)
 <br/>
 
 
