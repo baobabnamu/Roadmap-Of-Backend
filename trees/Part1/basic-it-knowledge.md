@@ -11,11 +11,15 @@
 - [What-Is-Hosting?](#What-Is-Hosting)
 <br/>
 
+## 💑 Special Thanks (Reference)
+- https://developer.mozilla.org/ko/docs/Learn/Common_questions/How_does_the_Internet_work
+<br/>
+
+
 ## How Does The Internet Work
 ### 1. 인터넷의 작동 원리
 
 #### 1-1. 인터넷의 정의
-Reference : https://developer.mozilla.org/ko/docs/Learn/Common_questions/How_does_the_Internet_work
 
 인터넷(Internet)이란 International Network, 즉 국제적인 네트워크입니다.   
 이는 전 세계적으로 연결되어 있는 큰 네트워크 망을 말합니다.  
