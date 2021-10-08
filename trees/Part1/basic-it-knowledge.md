@@ -15,7 +15,7 @@
 ## How Does The Internet Work
 ### 1. 인터넷의 작동 원리 <a href="https://baobab-tree.notion.site/223d4390e86241359b57be6b67a84f5d">Link</a> 🔗
 ### 2. URLs의 이해 <a href="https://baobab-tree.notion.site/URLs-db639072a8514961bba8108bb0b5f724">Link</a> 🔗
-### 3. Brower Rendring의 이해 <a href="https://baobab.live/77">Link</a> 🔗
+### 3. Browser Rendring의 이해 <a href="https://baobab.live/77">Link</a> 🔗
 <br/>
 
 ## What Is HTTP
