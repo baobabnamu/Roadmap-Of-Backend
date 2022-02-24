@@ -1,5 +1,5 @@
-# 📖 Interview Of Frontend
-> 신입 프런트엔드 개발자가 되는 과정을 정리한 저장소입니다.
+# 📖 Interview Of Backend
+> 신입 백엔드 개발자가 되는 과정을 정리한 저장소입니다.
 - 지속적으로 해당 repos를 업데이트할 예정입니다 :wave:
 - 도움이 되셨다면 PR과 Star 부탁드립니다. 💝
 <br/>
@@ -13,31 +13,13 @@
 
 
 # 📑 Table Of Index
+- 제가 공부하는 순서대로 기록될 예정입니다. ✋
+- 따라서 순서는 크게 의미가 없어요. 단순히 기록용 ! 🤙
 
-- [1) 기초 IT 지식과 기초 프론트엔드 지식](#기초-IT-지식과-기초-프론트엔드-지식)
-- [2) 컴퓨터 공학 기초 지식](#컴퓨터-공학-기초-지식)
-- [3) 프로그래밍 언어의 깊은 이해](#프로그래밍-언어의-깊은-이해)
+  <details>
+  <summary><strong>Docker</strong></summary>
+  <div markdown="1">
+  - Docker 기초 명령어
+  </div>
+  </details>  
 <br/>
-
-
-## 기초 IT 지식과 기초 프론트엔드 지식
-#### 인터넷 기초 (Internet) <a href="https://github.com/baobabnamu/0001_Interview_Of_Backend/blob/main/trees/Part1/basic-it-knowledge.md">Link</a> 🔗
-#### 마크업 언어/스타일 언어  (HTML/CSS)
-#### 자바스크립트 (Javascript)
-<br/>
-
-
-## 컴퓨터 공학 기초 지식
-#### 자료구조 (Data Structures)
-#### 네트워크 (Network)
-#### 운영체제 (OS)
-#### 데이터베이스 (Database)
-#### 알고리즘 (Algorithm)
-<br/>
-
-
-## 프로그래밍 언어의 깊은 이해
-#### 자바스크립트 (Node.JS)
-<br/>
-
-
