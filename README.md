@@ -21,13 +21,24 @@
   <summary><strong>Docker</strong></summary>
   <div markdown="1">
   <a href="https://baobab-tree.notion.site/Docker-8a77ccf2efb247e48fbad40e5d770cc8">Docker 기초 명령어</a> 🔗 <br/>
+  <a href="https://baobab-tree.notion.site/Docker-1c5a4e22ba6b4a22a6cb4b5f00c403fb">Docker 기초 원리</a> 🔗 <br/>
+  <a href="https://baobab-tree.notion.site/Dockerfile-7b8045c0f35740509d52ac419dac0d48">Dockerfile 사용법</a> 🔗 <br/>
+  <a href="https://baobab-tree.notion.site/Docker-Volume-bd7c5a5f2adc4bd0af06182ba1d66923">Docker Volume 사용법</a> 🔗 <br/>
+  <a href="https://baobab-tree.notion.site/Docker-Compose-e3e1611f305c4661afdde8f156529685">Docker Compose 사용법</a> 🔗 <br/>
   </div>
   </details>  
   
   <details>
   <summary><strong>Git</strong></summary>
   <div markdown="1">
-  - Git 기초 
+  진행 예정
+  </div>
+  </details>  
+  
+  <details>
+  <summary><strong>Kubernetes</strong></summary>
+  <div markdown="1">
+  진행 중
   </div>
   </details>  
 <br/>
