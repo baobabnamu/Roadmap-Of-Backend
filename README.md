@@ -29,6 +29,14 @@
   </details>  
   
   <details>
+  <summary><strong>AKS (Azure Kubernetes Service)</strong></summary>
+  <div markdown="1">
+  <a href="https://baobab-tree.notion.site/AKS-Azure-k8s-AKS-9b71885a37af4336ab15d0f8fc2881bd">AKS(Azure k8s) 자습서 - AKS에 컨테이너화된 애플리케이션 배포</a> 🔗 <br/>
+  <a href="https://baobab-tree.notion.site/AKS-Azure-k8s-Helm-cd9186e697c5494db0fcadbcecbcd083">AKS(Azure k8s) 자습서 - Helm을 사용하여 애플리케이션 및 패키지 관리</a> 🔗 <br/>
+  </div>
+  </details>  
+  
+  <details>
   <summary><strong>Git</strong></summary>
   <div markdown="1">
   진행 예정
@@ -39,14 +47,6 @@
   <summary><strong>Kubernetes</strong></summary>
   <div markdown="1">
   진행 중
-  </div>
-  </details>  
-  
-  <details>
-  <summary><strong>AKS (Azure Kubernetes Service)</strong></summary>
-  <div markdown="1">
-  <a href="https://baobab-tree.notion.site/AKS-Azure-k8s-AKS-9b71885a37af4336ab15d0f8fc2881bd">AKS(Azure k8s) 자습서 - AKS에 컨테이너화된 애플리케이션 배포</a> 🔗 <br/>
-  <a href="https://baobab-tree.notion.site/AKS-Azure-k8s-Helm-cd9186e697c5494db0fcadbcecbcd083">AKS(Azure k8s) 자습서 - Helm을 사용하여 애플리케이션 및 패키지 관리</a> 🔗 <br/>
   </div>
   </details>  
 <br/>
