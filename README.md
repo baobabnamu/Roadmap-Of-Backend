@@ -36,6 +36,13 @@
   <a href="https://baobab-tree.notion.site/AKS-Azure-k8s-3d7653257fe94838a8c167d6930fc68a">AKS(Azure k8s) 튜토리얼</a> 🔗 <br/>
   </div>
   </details>  
+
+  <details>
+  <summary><strong>NestJS</strong></summary>
+  <div markdown="1">
+  <a href="https://baobab-tree.notion.site/NestJS-d548e044ff854a3bbeea32f7631fc325">따라하며 배우는 NestJS</a> 🔗 <br/>
+  </div>
+  </details>  
   
   <details>
   <summary><strong>Git</strong></summary>
