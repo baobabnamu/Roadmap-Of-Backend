@@ -45,9 +45,9 @@
   </details>  
   
   <details>
-  <summary><strong>Git</strong></summary>
+  <summary><strong>Git & Github</strong></summary>
   <div markdown="1">
-  진행 예정
+  <a href="https://baobab-tree.notion.site/Git-Github-fef3005a6ad74a31b429153f1be7c8c4">Git & Github 기초</a> 🔗 <br/>
   </div>
   </details>  
   
