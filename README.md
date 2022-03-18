@@ -48,6 +48,7 @@
   <summary><strong>Git & Github</strong></summary>
   <div markdown="1">
   <a href="https://baobab-tree.notion.site/Git-Github-fef3005a6ad74a31b429153f1be7c8c4">Git & Github 기초</a> 🔗 <br/>
+  <a href="https://baobab-tree.notion.site/Github-Container-Registry-12a708fc2c4f421e9805d8af1450faa1">Github Container Registry</a> 🔗 <br/>
   </div>
   </details>  
   
